@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xKoNsTix
-- 👀 I’m interested in Coding, especially Web Ops. Also 3D Printing, Laser Cutting, Photography and E-Commerce
-- 🌱 I’m currently studying Multi Media Technology at Salzburg University of Applied Sciences
+- 👀 I’m interested in Coding, especially Cloud Ops and Wordpress. I am also into 3D Printing, Laser Cutting, Photography and E-Commerce
+- 🌱 I study Multi Media Technology at Salzburg University of Applied Sciences
 - 💞️ I’m looking to collaborate on ... just contact me, im interested in so many things :)
-- 📫 How to reach me: @konstikowarsch
+- 📫 How to reach me: @konstikowarsch, web@tokowa.at
 
 <!---
 xKoNsTix/xKoNsTix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
